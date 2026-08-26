@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi, I'm Basavaraj Choudri 👋
 
-<!--
-**choudribasavaraj28-wq/choudribasavaraj28-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech AI & Data Science Student | Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm a 3rd-semester B.Tech student at **REVA University** interested in **Cybersecurity, Python, Linux, Networking, Robotics, IoT, Embedded Systems, and Computer Vision**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building practical projects and exploring how software, hardware, and intelligent systems can work together to solve real-world problems.
+
+## 🔐 Current Focus
+
+* Cybersecurity fundamentals
+* Ethical hacking concepts
+* Python programming
+* Data Structures & Algorithms
+* Linux & Networking
+* Git & GitHub
+* Practical security projects
+
+## 🛠️ Technical Skills
+
+**Languages**
+
+* Python
+* C
+* SQL
+* HTML
+
+**Cybersecurity & Computing**
+
+* Cybersecurity
+* Ethical Hacking
+* Linux
+* Networking
+* Security Testing
+
+**AI & Computer Vision**
+
+* Artificial Intelligence
+* Machine Learning
+* OpenCV
+* YOLO
+* Computer Vision
+
+**Hardware & IoT**
+
+* Raspberry Pi
+* ESP32
+* ESP32-CAM
+* Arduino
+* NodeMCU
+* Sensors & IoT Modules
+
+**Tools**
+
+* Git
+* GitHub
+* Kali Linux
+* MySQL
+* VS Code
+* LeetCode
+* HackerRank
+
+## 🚀 Projects
+
+### 🤖 Self-Driving Robotaxi Prototype
+
+A miniature autonomous vehicle prototype using Raspberry Pi, ESP32, cameras, sensors, computer vision, and AI.
+
+**Focus:** Autonomous navigation • Obstacle detection • Computer Vision • Embedded Systems
+
+### 🚗 Lane Follower Robot
+
+A robotics project focused on autonomous lane following using sensors, embedded systems, and control logic.
+
+**Focus:** Sensors • Embedded Systems • Autonomous Navigation • Control Logic
+
+## 📚 Currently Learning
+
+* Python & DSA
+* Cybersecurity fundamentals
+* Ethical hacking
+* Linux
+* Computer networking
+* Git & GitHub best practices
+* Practical project development
+
+## 🎯 Career Goal
+
+My goal is to build a strong foundation in **Cybersecurity and Python**, gain practical industry experience, and develop meaningful projects while continuing to use my background in robotics, IoT, embedded systems, and computer vision.
+
+## 📫 Connect With Me
+
+* LinkedIn: [Basavaraj Choudri](www.linkedin.com/in/basavaraj-choudri-28-ak)
+* GitHub: [choudribasavaraj28-wq](https://github.com/choudribasavaraj28-wq)
+* Email: [choudribasavarj28@gmail.com](mailto:choudribasavarj28@gmail.com)
