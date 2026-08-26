@@ -90,6 +90,6 @@ My goal is to build a strong foundation in **Cybersecurity and Python**, gain pr
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Basavaraj Choudri](www.linkedin.com/in/basavaraj-choudri-28-ak)
+* LinkedIn: (www.linkedin.com/in/basavaraj-choudri-28-ak)
 * GitHub: [choudribasavaraj28-wq](https://github.com/choudribasavaraj28-wq)
 * Email: [choudribasavarj28@gmail.com](mailto:choudribasavarj28@gmail.com)
