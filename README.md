@@ -73,6 +73,8 @@ A miniature autonomous vehicle prototype using Raspberry Pi, ESP32, cameras, sen
 A robotics project focused on autonomous lane following using sensors, embedded systems, and control logic.
 
 **Focus:** Sensors • Embedded Systems • Autonomous Navigation • Control Logic
+##E-yantra:
+ currently i am participating in the E-yantra robotic hackathon and it was still in process
 
 ## 📚 Currently Learning
 
