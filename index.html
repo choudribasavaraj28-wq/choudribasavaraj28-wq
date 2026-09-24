@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Basavaraj Choudri's student portfolio and projects">
+  <title>Basavaraj Choudri | Portfolio</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #e8eef8;
+      background: #0b1220;
+    }
+
+    header {
+      padding: 22px 8%;
+      background: #111c30;
+      border-bottom: 1px solid #26344c;
+    }
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 14px;
+    }
+
+    .logo {
+      color: #ffffff;
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    nav a {
+      color: #cbd5e1;
+      text-decoration: none;
+      margin-left: 18px;
+    }
+
+    nav a:hover {
+      color: #60a5fa;
+    }
+
+    main {
+      width: min(100% - 40px, 1000px);
+      margin: 0 auto;
+    }
+
+    .hero {
+      padding: 85px 0 65px;
+    }
+
+    .eyebrow {
+      color: #60a5fa;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 12px 0;
+      font-size: clamp(2.2rem, 6vw, 3.8rem);
+      line-height: 1.15;
+      color: #ffffff;
+    }
+
+    .hero p {
+      max-width: 680px;
+      color: #b8c4d8;
+      font-size: 1.1rem;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 24px;
+      padding: 11px 18px;
+      border-radius: 8px;
+      background: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .button:hover {
+      background: #1d4ed8;
+    }
+
+    section {
+      padding: 35px 0;
+    }
+
+    h2 {
+      margin-bottom: 18px;
+      color: #ffffff;
+      font-size: 1.8rem;
+    }
+
+    .about-text {
+      max-width: 760px;
+      color: #b8c4d8;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 18px;
+    }
+
+    .project-card {
+      padding: 22px;
+      border: 1px solid #26344c;
+      border-radius: 12px;
+      background: #111c30;
+    }
+
+    .project-card h3 {
+      margin-bottom: 10px;
+      color: #ffffff;
+      font-size: 1.2rem;
+    }
+
+    .project-card p {
+      color: #b8c4d8;
+    }
+
+    .tag {
+      display: inline-block;
+      margin: 14px 6px 0 0;
+      padding: 4px 9px;
+      border-radius: 20px;
+      background: #1e3a5f;
+      color: #bfdbfe;
+      font-size: 0.85rem;
+    }
+
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .skill {
+      padding: 8px 12px;
+      border: 1px solid #26344c;
+      border-radius: 8px;
+      background: #111c30;
+      color: #cbd5e1;
+    }
+
+    footer {
+      margin-top: 35px;
+      padding: 24px 20px;
+      border-top: 1px solid #26344c;
+      color: #94a3b8;
+      text-align: center;
+    }
+
+    footer a {
+      color: #93c5fd;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <nav aria-label="Main navigation">
+      <div class="logo">Basavaraj Choudri</div>
+      <div>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Student Portfolio</p>
+      <h1>Hi, I'm Basavaraj Choudri</h1>
+      <p>
+        B.Tech AI &amp; Data Science student interested in cybersecurity,
+        Python, robotics, IoT, embedded systems, and computer vision.
+        I enjoy learning through practical projects.
+      </p>
+      <a class="button"
+         href="https://github.com/choudribasavaraj28-wq">
+        Visit my GitHub
+      </a>
+    </section>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p class="about-text">
+        I'm a B.Tech student at REVA University with an interest in
+        cybersecurity and intelligent systems. I enjoy exploring how
+        software and hardware can work together to solve real-world
+        problems, and I am building my skills through coursework and
+        hands-on projects.
+      </p>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+
+      <div class="project-grid">
+        <article class="project-card">
+          <h3>Self-Driving Robotaxi Prototype</h3>
+          <p>
+            A miniature autonomous vehicle prototype using Raspberry Pi,
+            ESP32, cameras, sensors, computer vision, and AI.
+          </p>
+          <span class="tag">Robotics</span>
+          <span class="tag">Computer Vision</span>
+          <span class="tag">Embedded Systems</span>
+        </article>
+
+        <article class="project-card">
+          <h3>Lane Follower Robot</h3>
+          <p>
+            A robotics project focused on autonomous lane following
+            using sensors, embedded systems, and control logic.
+          </p>
+          <span class="tag">Sensors</span>
+          <span class="tag">Autonomous Navigation</span>
+          <span class="tag">Control Logic</span>
+        </article>
+      </div>
+    </section>
+
+    <section id="skills">
+      <h2>Technical Skills &amp; Interests</h2>
+      <div class="skills">
+        <span class="skill">Python</span>
+        <span class="skill">C</span>
+        <span class="skill">SQL</span>
+        <span class="skill">HTML</span>
+        <span class="skill">Linux</span>
+        <span class="skill">Networking</span>
+        <span class="skill">Cybersecurity</span>
+        <span class="skill">Git &amp; GitHub</span>
+        <span class="skill">Computer Vision</span>
+        <span class="skill">IoT</span>
+        <span class="skill">Embedded Systems</span>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      © 2026 Basavaraj Choudri ·
+      <a href="https://github.com/choudribasavaraj28-wq">GitHub Profile</a>
+    </p>
+  </footer>
+</body>
+</html>
